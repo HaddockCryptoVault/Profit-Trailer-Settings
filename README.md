@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Haddock Crypto Vault Pages
 
 You can use the [editor on GitHub](https://github.com/HaddockCryptoVault/Profit-Trailer-Settings/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
